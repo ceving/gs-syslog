@@ -1,0 +1,9 @@
+Syslog bindings for Gambit-C
+
+Compile the module with:
+
+  gsc syslog
+
+And run the example with:
+
+  gsi syslog syslog-test
